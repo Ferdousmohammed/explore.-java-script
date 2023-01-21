@@ -37,4 +37,74 @@ var bigBoss=56;
 console.log(56);
 
 var homoSepis= '21'
-console.log(typeof homoSepis );
+console.log(typeof homoSepis);
+
+
+var promise= "i promise I will Work hard to become a programmer";
+console.log(promise.toUpperCase());
+
+
+var num1= "25";
+var num2=15.5;
+num1= parseInt(num1);
+console.log(num1+num2);
+
+
+
+
+var num1= "13";
+var num2=15.5;
+num1= parseInt(num1);
+console.log(num1+num2);
+
+
+var airBus1= 35;
+var airBus2= 66;
+var total= airBus1+airBus2;
+console.log(total);
+
+
+var air1 =35;
+var air2 =65;
+var total = air2-air1;
+console.log(total);
+
+var tinkuRahman = 60;
+var mahtirMohammed = 75;
+var total = tinkuRahman + mahtirMohammed;
+console.log (total);
+
+var abul = 11;
+var babul =3;
+var total =abul * babul;
+console.log (total);
+
+
+var fer =100;
+var dous= 10;
+var total= fer / dous;
+console.log (total);
+
+var sa =250;
+var dia = 39;
+var total = sa % dia ;
+console.log(total);
+
+var sa =250;
+var dia = 39;
+dia ++;
+console.log(dia);
+
+var sa =250;
+var dia = 39;
+dia --;
+console.log(dia);
+
+
+var sa =250;
+var dia = 69;
+dia ++;
+console.log(dia);
+
+
+
