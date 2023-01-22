@@ -106,5 +106,52 @@ var dia = 69;
 dia ++;
 console.log(dia);
 
+var nmbr = -11;
+var abs= Math.abs(nmbr);
+console.log(abs);
 
 
+
+var fr = -65;
+var fr = Math.abs(fr);
+console.log(fr);
+
+var sa = -45;
+var sa = Math.abs(sa);
+console.log(sa);
+
+var fs = 23;
+var fs = Math.abs(fs);
+console.log (fs);
+
+
+var fs = 23.65;
+var fs = Math.round(fs);
+console.log (fs);
+
+
+
+var fs = 13.35;
+var fs = Math.ceil(fs);
+console.log (fs);
+
+
+var biscuet= 11;
+
+if (biscuet != 12){
+    console.log("I will eat the biscuet");
+
+}
+else{
+  console.log ('khali cha is batter');
+}
+
+var job =true;
+var biya =2025;
+
+if (job == true  && biya >2025){
+console.log("cholo maye khuji");
+}
+else{
+console.log ("tor kopal e biya nai");
+}
